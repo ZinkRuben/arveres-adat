@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+
+# Editor & temporary lock files
+.~lock.*
+*.swp
+*~
+.DS_Store
+.idea/
+.vscode/
+
+# Temporary scratch outputs
+test_sample.csv
+sample_*.csv
